@@ -34,8 +34,8 @@
 - 관리자 (admin)\
 admin 패키지 ->run 패키지 ->StaticCla 클래스에서 FILE_PATH 이미지 경로변경-> UserRun 클래스를 실행 -> 관리자 프로그램 실행 
 
-관리자 아이디 : shopper
-관리자 비밀번호 : shmall
+#### 관리자 아이디 : shopper
+#### 관리자 비밀번호 : shmall
 
 
 - 소비자 (user)\
